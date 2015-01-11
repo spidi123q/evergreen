@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Evergreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="web_address">http://social-gecskp.rhcloud.com</string>
+    <string name="about">app from cse viruz</string>
+
+</resources>
